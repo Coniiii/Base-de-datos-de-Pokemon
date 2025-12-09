@@ -3,12 +3,6 @@
 ## Proyecto
 **Sistema de Base de Datos Pokémon**
 
-**Asignatura:** Taller de Base de Datos  
-**Profesor:** (omitido)  
-**Fecha de creación:** 29/06/2023  
-**Última actualización:** 04/07/2023  
-**Fecha de entrega:** 06/07/2023
-
 ## Descripción
 Crear una base de datos que concentre la información relevante sobre las ciudades que recorre un entrenador Pokémon, con el fin de facilitar la planificación de rutas, la gestión de recursos y el análisis de gimnasios y centros Pokémon.
 
@@ -82,4 +76,4 @@ La base de datos debe facilitar la toma de decisiones del entrenador al planific
 - Correcta normalización y diseño del esquema.
 - Integridad referencial implementada (claves primarias y foráneas).
 - Claridad y calidad de la documentación y de los scripts de ejemplo.
-- 
+
